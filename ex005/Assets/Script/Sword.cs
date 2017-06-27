@@ -64,8 +64,7 @@ public class Sword : MonoBehaviour {
 		if (Input.GetKeyDown ("h"))
 			print ("Get the button of \"H\"");
 
-		//type a chance.
-		print("nothing");
+
 
 
     }
