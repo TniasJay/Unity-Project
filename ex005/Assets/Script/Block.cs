@@ -22,7 +22,8 @@ public class Block : MonoBehaviour {
             Destroy(gameObject);
         }
 
-
+		//for git test
+		print ("second");
 
 
 
